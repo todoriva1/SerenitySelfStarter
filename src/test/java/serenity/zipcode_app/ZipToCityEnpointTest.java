@@ -19,7 +19,7 @@ public class ZipToCityEnpointTest {
     @BeforeAll
     public static void setUp(){
         RestAssured.baseURI = "https://api.zippopotam.us";
-
+//
     }
     @AfterAll
     public static void tearDown(){
